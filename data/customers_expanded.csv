@@ -1,0 +1,16 @@
+customer_id,name,email
+1,Avery Example,AVERY@example.com
+2,Blair Example,
+1,Conflicting Example,other@example.com
+0,Zero Example,zero@example.com
+-3,Negative Example,negative@example.com
+abc,Text Example,text@example.com
+3,   ,blank@example.com
+4,Invalid Example,missing-at.example.com
+4,Valid Later Example,LATER@example.com
+5,  Casey Example  ,  CASEY@EXAMPLE.COM  
+6,Drew Example,   
+7,Emery Example,emery@example.com
+7.5,Fraction Example,fraction@example.com
+,Missing ID Example,missing@example.com
+005,Duplicate Leading Zeros,duplicate@example.com
