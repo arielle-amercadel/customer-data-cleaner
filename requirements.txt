@@ -1,0 +1,4 @@
+# Runtime dependencies compatible with Python 3.9.6.
+pandas==2.3.3
+# Binary extra avoids a separate local libpq installation on supported platforms.
+psycopg[binary]==3.2.13
